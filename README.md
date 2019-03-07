@@ -1,11 +1,13 @@
 ## 소개
 [기초 프로젝트 독학] 
 React 기초 입문 프로젝트 – 흔하디 흔한 할 일 목록 만들기
+
 https://velopert.com/3480
 
 ## 결과물
-https://zwan2.github.io/react-todo/
 이재완의 React Todo List
+
+https://zwan2.github.io/react-todo/
 
 ## 기능 구현
 - Form을 활용한 데이터 입력.
