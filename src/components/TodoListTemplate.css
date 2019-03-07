@@ -14,10 +14,12 @@
     text-align: center;
     font-weight: 100;
     background: #22b8cf;
-    ;
     color: white;
 }
-
+.palette-wrapper {
+    padding: 1rem;
+    background: #f8f9fa;
+}
 .form-wrapper {
     padding: 1rem;
     border-bottom: 1px solid #22b8cf;
